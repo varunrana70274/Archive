@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "wave",
+    "slug": "wave",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashscreen_bg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2BBFC9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wavedating"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splashscreen_bg.png",
+        "backgroundColor": "#2BBFC9"
+      }
+    }
+  }
+}

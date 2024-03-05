@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1061541592544",
+    "firebase_url": "https://wave-eaea1.firebaseio.com",
+    "project_id": "wave-eaea1",
+    "storage_bucket": "wave-eaea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061541592544:android:0ed731a092db69eadbff85",
+        "android_client_info": {
+          "package_name": "com.wave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061541592544-1ieq7rlvs09vcmhjt6q8970uesal27b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPhLOJh1AMijDAP2VHIqOu07rw70roRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061541592544-1ieq7rlvs09vcmhjt6q8970uesal27b9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061541592544-u5rrn6vttr0hjbm1me4q0jel6ph9atjf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waveinc.wave"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061541592544:android:722836e6ae4f7307dbff85",
+        "android_client_info": {
+          "package_name": "com.wavedating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061541592544-1ieq7rlvs09vcmhjt6q8970uesal27b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPhLOJh1AMijDAP2VHIqOu07rw70roRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061541592544-1ieq7rlvs09vcmhjt6q8970uesal27b9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061541592544-u5rrn6vttr0hjbm1me4q0jel6ph9atjf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waveinc.wave"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

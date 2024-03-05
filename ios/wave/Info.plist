@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.36</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.1061541592544-u5rrn6vttr0hjbm1me4q0jel6ph9atjf</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Allow Wave to access your calendar</string>
+	<key>NSCameraUsageDescription</key>
+	<string>When you share your camera with this app, this allows you to record yourself for your video profile</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Allow Wave experiences to access your contacts</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Give Wave permission to access your location so that we can find potential matches in your area</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Give Wave permission to access your location so that we can find potential matches in your area</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Give Wave permission to access your location so that we can find potential matches in your area</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>When you share your microphone with this app, this allows your to record your voice for your video profile</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Allow Wave to access your device&apos;s accelerometer</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Give Wave permission to access your camera to share photos and videos for your profile</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Give Wave permission to access your camera to share photos and videos for your profile</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Allow Wave to access your reminders</string>
+	<key>UILaunchStoryboardName</key>
+	<string>SplashScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
